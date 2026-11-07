@@ -1,0 +1,17 @@
+{
+  "neural": {
+    "weight_mae": 0.0892,
+    "jaw_mae": 0.0165,
+    "vertex_error": 0.00406
+  },
+  "least_squares": {
+    "weight_mae": 0.1612,
+    "jaw_mae": 0.1125,
+    "vertex_error": 0.02242
+  },
+  "train_seconds": 9.5,
+  "inference_ms_per_frame": 0.083,
+  "params": 477580,
+  "train_samples": 20000,
+  "test_samples": 2000
+}
